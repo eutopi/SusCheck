@@ -1,3 +1,3 @@
 # SusCheck
 
-Checks how sus Amazon reviews are 
+Gives users more information to check for themselves how sus Amazon reviews are 
