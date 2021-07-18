@@ -17,6 +17,7 @@ parsel==1.6.0
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.2
 PyYAML==5.4.1
 requests @ file:///tmp/build/80754af9/requests_1608241421344/work
 selectorlib==0.16.0
